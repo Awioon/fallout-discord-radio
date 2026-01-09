@@ -1,0 +1,18 @@
+📜 Registro de Cambios - Diamond City Radio
+[Versión 1.0.0] - "Lanzamiento desde el Refugio"
+
+✨ Nuevas Funciones
+Emisión en vivo: Sintonización estable de Diamond City Radio las 24 horas.
+Comando de voz: Añadido el comando central !radio para llamar al bot al canal.
+Comando de voz: Añadido el comando central !stop para expulsar al bot del canal.
+Comando de voz: Añadido el comando central !help para saber todos los comandos del bot.
+Sonido de Alta Calidad: Optimización del audio para que se escuche nítido y sin cortes en Discord.
+
+🛠️ Mejoras y Ajustes
+Estabilidad de Radio: Se ha corregido un error que hacía que la radio se quedara en silencio al conectar.
+Sintonización Automática: El bot ahora detecta el mejor flujo de datos disponible para evitar lag.
+Seguridad Interna: Blindaje del sistema para evitar accesos no autorizados al motor del bot.
+
+🚀 En el horizonte (Próximamente)
+Puede tener algunas actualizaciones futuras pero lo principal esta hecho 
+Lo que quiere decir que no tendran actualizaciones si es por el feedback 
