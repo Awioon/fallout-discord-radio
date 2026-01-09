@@ -6,6 +6,7 @@ Emisión en vivo: Sintonización estable de Diamond City Radio las 24 horas.
 Comando de voz: Añadido el comando central !radio para llamar al bot al canal.
 Comando de voz: Añadido el comando central !stop para expulsar al bot del canal.
 Comando de voz: Añadido el comando central !help para saber todos los comandos del bot.
+Comando de voz: Añadido el comando central !frase para que te diga frases del fallout.
 Sonido de Alta Calidad: Optimización del audio para que se escuche nítido y sin cortes en Discord.
 
 🛠️ Mejoras y Ajustes
