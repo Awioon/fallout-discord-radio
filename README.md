@@ -35,4 +35,7 @@ Se ha corregido el error de silencio inicial al conectar al canal de voz.
 Sistema blindado internamente para garantizar la seguridad del motor del bot.
 
 🚀 El Futuro del Proyecto
-Aunque el núcleo principal del bot está terminado, el proyecto queda abierto a posibles actualizaciones futuras basadas únicamente en el feedback de la comunidad. Si los habitantes del Yermo lo piden, ¡seguiremos mejorando!.
+Aunque el núcleo principal del bot está terminado, el proyecto queda abierto a posibles actualizaciones futuras basadas únicamente en el feedback de la comunidad. Si los habitantes del Yermo lo piden, y al ser mi primer proyecto grande desde que empece en este mundo me ha resultado divertido de hacer ya que he aprendido muchas cosas nuevas como el manejo de las librerias de audio y de discord.
+Todavia no tengo claro si hostearlo pero dejo el codigo publico y la instalacion es sencilla teneis que tener node y las librerias de discord y de audio asi empezara a funcionar
+Un saludo y como dije antes si me animo a mejorarlo lo mejorare 
+
