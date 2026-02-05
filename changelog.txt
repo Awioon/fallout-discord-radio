@@ -16,4 +16,5 @@ Seguridad Interna: Blindaje del sistema para evitar accesos no autorizados al mo
 
 🚀 En el horizonte (Próximamente)
 Puede tener algunas actualizaciones futuras pero lo principal esta hecho 
-Lo que quiere decir que no tendran actualizaciones si es por el feedback 
+
+
