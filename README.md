@@ -1,5 +1,5 @@
 ¡DIAMOND CITY RADIO YA ESTÁ EN EL AIRE! 📻
-¡Atención, habitantes del Yermo! Tras un intenso periodo de desarrollo en el refugio, el Diamond City Radio Bot alcanza su Versión 1.0.0. El bot ya es completamente funcional y está listo para llevar la mejor música de la Commonwealth a tu servidor de Discord.
+
 
 📜 Notas del Lanzamiento: Versión 1.0.0 "Desde el Refugio" 
 
